@@ -86,5 +86,3 @@ This project simulates a file transfer system using UDP sockets in Python. It co
 ## License
 
 This project is licensed under the MIT License.
-
-This project simulates a file transfer system using UDP sockets in Python. It consists of a sender and receiver implementation that handles file transmission, packet acknowledgment, retransmissions, and loss simulation.
