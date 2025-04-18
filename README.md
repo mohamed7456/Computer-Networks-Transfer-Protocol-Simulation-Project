@@ -3,7 +3,7 @@
 This project simulates a file transfer system using UDP sockets in Python. It consists of a sender and receiver implementation that handles file transmission, packet acknowledgment, retransmissions, and loss simulation.
 
 ## Project Structure
-. ├── receiver.py # Receiver implementation <br>
+  ├── receiver.py # Receiver implementation <br>
   ├── sender.py # Sender implementation <br>
   ├── images/ # Folder for input and output images <br>
 
